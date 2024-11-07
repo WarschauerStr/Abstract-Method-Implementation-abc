@@ -2,8 +2,8 @@ import unittest
 from tool import Tool, Laptop
 
 
-# Do not modify the following
-# Test Class : code for running the test
+# do not modify the following
+# test Class : code for running the test
 class TestGadget(unittest.TestCase):
     def setUp(self):
         self.l1 = Laptop()
